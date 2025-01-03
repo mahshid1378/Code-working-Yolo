@@ -1,3 +1,3 @@
-# yolotinyv3_medmask_demo
+#Code-working-Yolo
 
-Helper repo to train tiny yolo v3 on custom data in google colaboratory notebook
+the working code yolo for(pure) university Zanjan and worked yolo model 3 on image detection car & persion.
